@@ -1,3 +1,12 @@
+Hello!
+
+This is the data repository for our paper:
+
+# Heuristics and Biases in AI Decision-Making: Implications for Responsible AGI
+Published in the proceedings of IEEE AIRC 2025 Conference.
+
+If you use this repository, please cite our work:
+
 ## 📖 Cite this work
 
 If you use this repository in your research, please cite:
